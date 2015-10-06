@@ -3,3 +3,4 @@ export const DATA_SUCCEEDED = 'DATA_SUCCEEDED';
 export const DATA_FAILED = 'DATA_FAILED';
 export const TITLE_CHANGED = 'TITLE_CHANGED';
 export const CREATE_EVENT = 'CREATE_EVENT';
+export const INVITE_FRIENDS = 'INVITE_FRIENDS';
